@@ -1,0 +1,314 @@
+[
+    {
+        "name": "瑪俐的長毛巨魔 ex",
+        "image": "grimmsnarl_ex.jpg",
+        "category": "Pokemon",
+        "hp": 320,
+        "type": "Darkness",
+        "ability": {
+            "name": "龐克練肌",
+            "effect": "在自己的回合，從手牌使出這張卡並完成進化時，可使用1次。從自己的牌庫選擇最多5張「基本惡能量」卡，以任意方式附於自己的「瑪俐的寶可夢」身上。並且重洗牌庫。"
+        },
+        "moves": [
+            {
+                "name": "暗影子彈",
+                "cost": ["Darkness", "Darkness"],
+                "damage": 180,
+                "effect": "對手的1隻備戰寶可夢也受到30點傷害。[在備戰區不計算弱點・抵抗力。]"
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": 2
+    },
+    {
+        "name": "瑪俐的詐唬魔",
+        "image": "morgrem.jpg",
+        "category": "Pokemon",
+        "hp": 100,
+        "type": "Darkness",
+        "moves": [
+            {
+                "name": "推擊",
+                "cost": ["Darkness", "Darkness"],
+                "damage": 60,
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": 1
+    },
+    {
+        "name": "瑪俐的搗蛋小妖",
+        "image": "impidimp.jpg",
+        "category": "Pokemon",
+        "hp": 70,
+        "type": "Darkness",
+        "moves": [
+            {
+                "name": "偷盜",
+                "cost": ["Colorless"],
+                "damage": 0,
+                "effect": "從自己的牌庫抽出1張卡。"
+            },
+            {
+                "name": "推擊",
+                "cost": ["Darkness"],
+                "damage": 10,
+                "effect": ""
+            }
+        ],
+        "weakness": "Grass",
+        "retreat": 1
+    },
+    {
+        "name": "雪妖女",
+        "image": "froslass.jpg",
+        "category": "Pokemon",
+        "hp": 90,
+        "type": "Water",
+        "ability": {
+            "name": "冰冷之帳",
+            "effect": "只要這隻寶可夢在場上，每次寶可夢檢查時，在雙方的擁有特性的所有寶可夢(「雪妖女」除外)身上各放置1個傷害指示物。"
+        },
+        "moves": [
+            {
+                "name": "冰霜粉碎",
+                "cost": ["Water", "Colorless"],
+                "damage": 60,
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": 1
+    },
+    {
+        "name": "雪童子",
+        "image": "snorunt.jpg",
+        "category": "Pokemon",
+        "hp": 70,
+        "type": "Water",
+        "moves": [
+            {
+                "name": "寒意",
+                "cost": ["Water"],
+                "damage": 10,
+                "effect": ""
+            }
+        ],
+        "weakness": "Metal",
+        "retreat": 1
+    },
+    {
+        "name": "願增猿",
+        "image": "munkidori.jpg",
+        "category": "Pokemon",
+        "hp": 110,
+        "type": "Psychic",
+        "ability": {
+            "name": "腎上腺腦力",
+            "effect": "若這隻寶可夢身上附有惡能量卡，則在自己的回合時可使用1次。選擇最多3個自己的1隻場上寶可夢身上放置的傷害指示物，改放於對手的1隻場上寶可夢身上。"
+        },
+        "moves": [
+            {
+                "name": "精神歪曲",
+                "cost": ["Psychic", "Colorless"],
+                "damage": 60,
+                "effect": "將對手的戰鬥寶可夢混亂。"
+            }
+        ],
+        "weakness": "Darkness",
+        "resistance": "Fighting",
+        "retreat": 1
+    },
+    {
+        "name": "米立龍",
+        "image": "tatsugiri.jpg",
+        "category": "Pokemon",
+        "hp": 70,
+        "type": "Dragon",
+        "ability": {
+            "name": "集客",
+            "effect": "若這隻寶可夢在戰鬥場上，則在自己的回合時可使用1次。查看自己的牌庫上方6張卡，從其中選擇1張支援者卡，在給對手看過後加入手牌。將剩餘卡放回牌庫並重洗。"
+        },
+        "moves": [
+            {
+                "name": "衝浪",
+                "cost": ["Fire", "Water"],
+                "damage": 50,
+                "effect": ""
+            }
+        ],
+        "retreat": 1
+    },
+    {
+        "name": "含羞苞",
+        "image": "budew.jpg",
+        "category": "Pokemon",
+        "hp": 30,
+        "type": "Grass",
+        "moves": [
+            {
+                "name": "癢癢花粉",
+                "cost": [],
+                "damage": 10,
+                "effect": "在下個對手的回合，對手無法從手牌使出物品卡。"
+            }
+        ],
+        "weakness": "Fire",
+        "retreat": 0
+    },
+    {
+        "name": "月月熊 赫月 ex",
+        "image": "bloodmoon_ursaluna.jpg",
+        "category": "Pokemon",
+        "hp": 260,
+        "type": "Colorless",
+        "ability": {
+            "name": "老練招式",
+            "effect": "這隻寶可夢使用「血月」所需的無能量，減少對手已經獲得的獎賞卡的張數數量。"
+        },
+        "moves": [
+            {
+                "name": "血月",
+                "cost": ["Colorless", "Colorless", "Colorless", "Colorless", "Colorless"],
+                "damage": 240,
+                "effect": "在下個自己的回合，這隻寶可夢無法使用招式。"
+            }
+        ],
+        "weakness": "Fighting",
+        "retreat": 3
+    },
+    {
+        "name": "可達鴨",
+        "image": "psyduck.jpg",
+        "category": "Pokemon",
+        "hp": 70,
+        "type": "Water",
+        "ability": {
+            "name": "濕氣",
+            "effect": "只要這隻寶可夢在場上，雙方所有寶可夢的將自己昏厥的效果的特性，全部消除。"
+        },
+        "moves": [
+            {
+                "name": "衝撞",
+                "cost": ["Colorless", "Colorless"],
+                "damage": 20,
+                "effect": ""
+            }
+        ],
+        "weakness": "Lightning",
+        "retreat": 1
+    },
+    {
+        "name": "寶可平板",
+        "image": "poke_tablet.jpg",
+        "category": "Trainer",
+        "sub_category": "Item",
+        "effect": "從自己的牌庫選擇1張寶可夢卡（「擁有規則的寶可夢」除外）。在給對手看過後加入手牌。並且重洗牌庫。",
+        "rule": "在自己的回合時，物品卡可不限張數使用。"
+    },
+    {
+        "name": "好友寶芬",
+        "image": "buddy_poffin.jpg",
+        "category": "Trainer",
+        "sub_category": "Item",
+        "effect": "從自己的牌庫選擇最多2張HP為「70」以下的基礎寶可夢卡，放置於備戰區。並且重洗牌庫。",
+        "rule": "在自己的回合時，物品卡可不限張數使用。"
+    },
+    {
+        "name": "夜間擔架",
+        "image": "night_stretcher.jpg",
+        "category": "Trainer",
+        "sub_category": "Item",
+        "effect": "從自己的棄牌區選擇1張寶可夢卡或者基本能量卡，在給對手看過後加入手牌。",
+        "rule": "在自己的回合時，物品卡可不限張數使用。"
+    },
+    {
+        "name": "神奇糖果",
+        "image": "rare_candy.jpg",
+        "category": "Trainer",
+        "sub_category": "Item",
+        "effect": "從自己的手牌選擇1張2階進化寶可夢卡，放置於自己的場上的可進化成那隻寶可夢的基礎寶可夢身上，跳過1階進化完成進化。（無法對自己的最初回合或剛使出的寶可夢使用。）",
+        "rule": "在自己的回合時，物品卡可不限張數使用。"
+    },
+    {
+        "name": "高級球",
+        "image": "ultra_ball.jpg",
+        "category": "Trainer",
+        "sub_category": "Item",
+        "effect": "這張卡必須將自己的2張手牌丟棄才可使用。 從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+        "rule": "在自己的回合時，物品卡可不限張數使用。"
+    },
+    {
+        "name": "能量轉移",
+        "image": "energy_switch.jpg",
+        "category": "Trainer",
+        "sub_category": "Item",
+        "effect": "選擇1個自己的場上寶可夢身上附加的基本能量，改附於自己的其他寶可夢身上。",
+        "rule": "在自己的回合時，物品卡可不限張數使用。"
+    },
+    {
+        "name": "不公印章",
+        "image": "unfair_stamp.jpg",
+        "category": "Trainer",
+        "sub_category": "ACE SPEC",
+        "effect": "這張卡必須在上個對手的回合自己的寶可夢昏厥了才可使用。 雙方玩家各自將手牌全部放回牌庫並重洗。然後，從牌庫抽卡，自己抽出5張，對手抽出2張。",
+        "rule": "1副牌組只可放1張ACE SPEC的卡。"
+    },
+    {
+        "name": "氣球",
+        "image": "air_balloon.jpg",
+        "category": "Trainer",
+        "sub_category": "Tool",
+        "effect": "附有這張卡的寶可夢，撤退所需的能量減少2個。",
+        "rule": "寶可夢道具卡，附於自己的寶可夢使用。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。"
+    },
+    {
+        "name": "莉莉艾的決意",
+        "image": "lillie_resolve.jpg",
+        "category": "Trainer",
+        "sub_category": "Supporter",
+        "effect": "將自己的手牌全部放回牌庫並重洗。然後，從牌庫抽出6張卡。若自己剩餘獎賞卡的張數為6張，則改為抽出8張卡。",
+        "rule": "在自己的回合時，支援者卡只可使用1張。"
+    },
+    {
+        "name": "火箭隊的拉姆達",
+        "image": "rocket_lambda.jpg",
+        "category": "Trainer",
+        "sub_category": "Supporter",
+        "effect": "從自己的牌庫選擇1張訓練家卡，在給對手看過後加入手牌。並且重洗牌庫。",
+        "rule": "在自己的回合時，支援者卡只可使用1張。"
+    },
+    {
+        "name": "老大的指令",
+        "image": "boss_orders.jpg",
+        "category": "Trainer",
+        "sub_category": "Supporter",
+        "effect": "選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。",
+        "rule": "在自己的回合時，支援者卡只可使用1張。"
+    },
+    {
+        "name": "丹瑜",
+        "image": "carmine.jpg",
+        "category": "Trainer",
+        "sub_category": "Supporter",
+        "effect": "這張卡可在先攻玩家的最初回合使用。 將自己的手牌全部丟棄，從牌庫抽出5張卡。",
+        "rule": "在自己的回合時，支援者卡只可使用1張。"
+    },
+    {
+        "name": "尖釘鎮道館",
+        "image": "spikemuth_gym.jpg",
+        "category": "Trainer",
+        "sub_category": "Stadium",
+        "effect": "雙方玩家在每個自己的回合時，可使用1次，可從自己的牌庫選擇1張「瑪俐的寶可夢」，在給對手看過後加入手牌。並且重洗牌庫。",
+        "rule": "在自己的回合時，可將1張競技場卡放置於戰鬥場旁邊。若其他競技場卡被放置，則將這張卡丟棄。名稱相同的競技場卡無法放置於場上。"
+    },
+    {
+        "name": "基本惡能量",
+        "image": "dark_energy.jpg",
+        "category": "Energy",
+        "sub_category": "Basic",
+        "effect": "",
+        "rule": ""
+    }
+]
